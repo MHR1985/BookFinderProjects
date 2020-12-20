@@ -101,7 +101,8 @@ Docker engine and Docker Compose must be installed. For ease of installation, us
 
 #### Installation
 
-Download the “Bookfinder” project.
+Download this project. 
+Navigate to the “Bookfinder” project.
 Run it by opening a command line in the bookfinder project directory and type “docker-compose up”
 
 #### BookFinder program
